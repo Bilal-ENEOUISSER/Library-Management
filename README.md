@@ -1,0 +1,2 @@
+# Library-Management
+This project was created at the end of the first academic year, and it was required to create a library management program. And there is the program, the management of officials who will be responsible for the program. They can enter customers, books and authors, and they can extract a book's rent invoice. We have also made space for libraries that have small cafes. They have beverage management as well as beverage billing.
